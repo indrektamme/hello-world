@@ -1,2 +1,3 @@
 esimene rida a1
 teine rida (a2)
+neljas rida (a4) ilma add. ilma commit.
